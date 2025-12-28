@@ -1,0 +1,6 @@
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+title: My Coding Guides
